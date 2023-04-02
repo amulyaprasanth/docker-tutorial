@@ -1,0 +1,1 @@
+This repository contains a small project to demosntrate the use of the [Docker](https://www.docker.com/) container technology to run a Machine Learning Web app using Flask.
